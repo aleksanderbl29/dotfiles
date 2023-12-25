@@ -12,7 +12,8 @@ install.packages("patchwork")
 install.packages("ggthemes")
 install.packages("extrafont")
 ### After installing extranfont, run the following code:
-font_import()
+library(extrafont)
+font_import() # This will take quite some time
 
 ## Data
 install.packages("gapminder")
