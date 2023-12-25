@@ -10,6 +10,7 @@ install.packages("janitor")
 ## Graphing
 install.packages("patchwork")
 install.packages("ggthemes")
+install.packages("extrafont")
 
 ## Data
 install.packages("gapminder")
