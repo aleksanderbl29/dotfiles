@@ -17,3 +17,4 @@ font_import() # This will take quite some time
 
 ## Data
 install.packages("gapminder")
+# install.packages("spotifyr")
