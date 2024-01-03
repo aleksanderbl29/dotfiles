@@ -15,6 +15,11 @@ install.packages("extrafont")
 library(extrafont)
 font_import() # This will take quite some time
 
+## Tables
+install.packages("gt")
+install.packages("gtExtras")
+install.packages("gtsummary")
+
 ## Data
 install.packages("gapminder")
 # install.packages("spotifyr")
