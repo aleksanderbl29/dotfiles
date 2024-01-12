@@ -7,6 +7,9 @@ install.packages("read_excel")
 ## Data cleaning
 install.packages("janitor")
 
+## Data management
+install.packages("fastDummies")
+
 ## Graphing
 install.packages("patchwork")
 install.packages("ggthemes")
