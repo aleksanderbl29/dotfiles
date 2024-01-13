@@ -13,10 +13,11 @@ install.packages("fastDummies")
 ## Graphing
 install.packages("patchwork")
 install.packages("ggthemes")
+install.packages("wesanderson") # Wes Anderson color palettes
 install.packages("extrafont")
 ### After installing extranfont, run the following code:
-library(extrafont)
-font_import() # This will take quite some time
+# library(extrafont)
+# font_import() # This will take quite some time
 
 ## Tables
 install.packages("gt")
