@@ -14,6 +14,7 @@ install.packages("fastDummies")
 install.packages("patchwork")
 install.packages("ggthemes")
 install.packages("wesanderson") # Wes Anderson color palettes
+install.packages("paletteer")
 install.packages("extrafont")
 ### After installing extranfont, run the following code:
 # library(extrafont)
