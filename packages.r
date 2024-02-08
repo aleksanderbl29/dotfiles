@@ -24,6 +24,7 @@ install.packages("extrafont")
 install.packages("gt")
 install.packages("gtExtras")
 install.packages("gtsummary")
+install.packages("huxtable")
 
 ## Data
 install.packages("gapminder")
