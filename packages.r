@@ -11,7 +11,8 @@ install.packages("janitor")
 install.packages("fastDummies")
 
 ## Control and methods
-install.packages("synth")
+install.packages("Synth")
+install.packages("fixest")
 
 ## Graphing
 install.packages("patchwork")
