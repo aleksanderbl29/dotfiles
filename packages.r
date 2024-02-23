@@ -10,6 +10,9 @@ install.packages("janitor")
 ## Data management
 install.packages("fastDummies")
 
+## Control and methods
+install.packages("synth")
+
 ## Graphing
 install.packages("patchwork")
 install.packages("ggthemes")
@@ -26,6 +29,8 @@ install.packages("gtExtras")
 install.packages("gtsummary")
 install.packages("huxtable")
 
-## Data
+## Datasets and data import
 install.packages("gapminder")
+install.packages("nycflights13")
+install.packages("manifestoR")
 # install.packages("spotifyr")
