@@ -108,6 +108,8 @@ cask "vlc"
 cask "warp"
 # Collect, organise, cite, and share research sources
 cask "zotero"
+# Visual Studio Code
+cask "visual-studio-code"
 mas "2048 Game", id: 871033113
 mas "AdGuard for Safari", id: 1440147259
 mas "Be Focused", id: 973134470
