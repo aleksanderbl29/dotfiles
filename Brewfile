@@ -60,6 +60,8 @@ brew "teamookla/speedtest/speedtest"
 cask "alt-tab"
 # Automatic tiling window manager similar to xmonad
 cask "amethyst"
+# Tool to manage postgresql databases
+cask pgadmin4
 # Tool to flash OS images to SD cards & USB drives
 cask "balenaetcher"
 # Tool to measure the computer system's performance
