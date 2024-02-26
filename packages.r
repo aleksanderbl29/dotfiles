@@ -17,6 +17,7 @@ install.packages("fixest")
 ## Graphing
 install.packages("patchwork")
 install.packages("ggthemes")
+install.packages("ggforce")
 install.packages("wesanderson") # Wes Anderson color palettes
 install.packages("paletteer")
 install.packages("extrafont")
