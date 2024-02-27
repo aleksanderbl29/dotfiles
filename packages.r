@@ -13,6 +13,7 @@ install.packages("fastDummies")
 ## Control and methods
 install.packages("Synth")
 install.packages("fixest")
+install.packages("Amelia")
 
 ## Graphing
 install.packages("patchwork")
