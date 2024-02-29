@@ -9,6 +9,7 @@ install.packages("janitor")
 
 ## Data management
 install.packages("fastDummies")
+install.packages("tidymodels")
 
 ## Control and methods
 install.packages("Synth")
