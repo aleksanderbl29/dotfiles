@@ -15,6 +15,7 @@ install.packages("tidymodels")
 install.packages("Synth")
 install.packages("fixest")
 install.packages("Amelia")
+install.packages("estimatr")
 
 ## Graphing
 install.packages("patchwork")
