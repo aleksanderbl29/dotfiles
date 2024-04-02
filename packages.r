@@ -4,6 +4,9 @@ install.packages("tidyverse")
 ## Data import
 install.packages("read_excel")
 
+## Database
+install.packages(c("DBI", "RSQLite", "RPostgreSQL"))
+
 ## Data cleaning
 install.packages("janitor")
 
@@ -39,7 +42,6 @@ install.packages("gapminder")
 install.packages("nycflights13")
 install.packages("manifestoR")
 # install.packages("spotifyr")
-
 
 ## Working with api and json
 install.packages("jsonlite")
