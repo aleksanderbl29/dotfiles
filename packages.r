@@ -45,3 +45,6 @@ install.packages("manifestoR")
 
 ## Working with api and json
 install.packages("jsonlite")
+
+## Misc
+install.packages("dotenv")
