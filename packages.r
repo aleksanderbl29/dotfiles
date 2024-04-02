@@ -5,7 +5,7 @@ install.packages("tidyverse")
 install.packages("read_excel")
 
 ## Database
-install.packages(c("DBI", "RSQLite", "RPostgreSQL"))
+install.packages(c("DBI", "RSQLite", "RPostgreSQL", "dbplyr"))
 
 ## Data cleaning
 install.packages("janitor")
