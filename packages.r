@@ -48,3 +48,4 @@ install.packages("jsonlite")
 
 ## Misc
 install.packages("dotenv")
+install.packages("scales")
