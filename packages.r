@@ -22,6 +22,7 @@ install.packages("estimatr")
 
 ## Graphing
 install.packages("patchwork")
+install.packages("DiagrammeR")
 install.packages("ggthemes")
 install.packages("ggforce")
 install.packages("wesanderson") # Wes Anderson color palettes
