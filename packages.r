@@ -1,5 +1,7 @@
 ## General
 install.packages("tidyverse")
+install.packages("modelsummary")
+install.packages("marginaleffects")
 
 ## Data import
 install.packages("read_excel")
