@@ -46,6 +46,7 @@ install.packages("gapminder")
 install.packages("nycflights13")
 install.packages("manifestoR")
 # install.packages("spotifyr")
+install.packages("causaldata")
 
 ## Working with api and json
 install.packages("jsonlite")
