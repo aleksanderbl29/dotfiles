@@ -2,6 +2,7 @@
 install.packages("tidyverse")
 install.packages("modelsummary")
 install.packages("marginaleffects")
+install.packages("devtools")
 
 ## Data import
 install.packages("read_excel")
