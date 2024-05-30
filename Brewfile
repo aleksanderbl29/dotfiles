@@ -13,18 +13,24 @@ brew "gcc"
 brew "btop"
 # Console Matrix
 brew "cmatrix"
+# Configurable talking characters in ASCII art
+brew "cowsay"
+# Cryptographic recipes and primitives for Python
+brew "cryptography"
 # Pack, ship and run any application as a lightweight container
 brew "docker"
 # GitHub command-line tool
 brew "gh"
 # Distributed revision control system
 brew "git"
-# Open source programming language to build simple/reliable/efficient software
-brew "go"
+# Graph visualization software from AT&T and Bell Labs
+brew "graphviz"
 # Kubernetes package manager
 brew "helm"
 # Improved top (interactive process viewer)
 brew "htop"
+# Tools and libraries to manipulate images in many formats
+brew "imagemagick"
 # Tool to move from `docker-compose` to Kubernetes
 brew "kompose"
 # Kubernetes command-line interface
@@ -35,6 +41,8 @@ brew "mas"
 brew "minikube"
 # Fast, highly customisable system info script
 brew "neofetch"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
 # Utility for managing network connections
 brew "netcat"
 # Port scanning utility for large networks
@@ -45,25 +53,35 @@ brew "node"
 brew "openjdk"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
-# Cryptographic recipes and primitives for Python
-brew "python-cryptography"
 # Software environment for statistical computing
 brew "r", link: false
 # Cross-shell prompt for astronauts
 brew "starship"
+# Terminal file explorer
+brew "tere"
+# Terminal multiplexer
+brew "tmux"
+# Vi 'workalike' with many additional features
+brew "vim"
 # Library to create, extract, and modify Windows Imaging files
 brew "wimlib"
+# Tools for the WireGuard secure network tunnel
+brew "wireguard-tools"
 brew "hudochenkov/sshpass/sshpass"
 # Ookla Speedtest
 brew "teamookla/speedtest/speedtest"
+# GPU-accelerated terminal emulator
+cask "alacritty"
 # Enable Windows-like alt-tab
 cask "alt-tab"
 # Automatic tiling window manager similar to xmonad
 cask "amethyst"
-# Tool to manage postgresql databases
-cask pgadmin4
 # Tool to flash OS images to SD cards & USB drives
 cask "balenaetcher"
+# Matrix collaboration client
+cask "element"
+# Developer targeted fonts with a high number of glyphs
+cask "font-meslo-lg-nerd-font"
 # Tool to measure the computer system's performance
 cask "geekbench"
 # Tool to optimise images to a smaller size
@@ -72,10 +90,14 @@ cask "imageoptim"
 cask "iterm2"
 # Utility that shows the latest app updates
 cask "latest"
+# Discover, download, and run local LLMs
+cask "lm-studio"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
 # Replacement for Docker Desktop
 cask "orbstack"
+# Administration and development platform for PostgreSQL
+cask "pgadmin4"
 # Collaboration platform for API development
 cask "postman"
 # Scientific and technical publishing system built on Pandoc
@@ -94,24 +116,26 @@ cask "slack"
 cask "sonos"
 # Music streaming service
 cask "spotify"
-# Create, edit, browse SQLite databases
-cask "sqlitestudio"
 # System monitor for the menu bar
 cask "stats"
+# Desktop application for viewing and analyzing tabular data
+cask "tad"
 # Open-source BitTorrent client
 cask "transmission"
 # Tool to invert scroll direction for physical scroll wheels
 cask "unnaturalscrollwheels"
 # Tool to hide menu bar icons
 cask "vanilla"
+# Open-source code editor
+cask "visual-studio-code"
 # Multimedia player
 cask "vlc"
 # Rust-based terminal
 cask "warp"
+# Open-source version of the X.Org X Window System
+cask "xquartz"
 # Collect, organise, cite, and share research sources
 cask "zotero"
-# Visual Studio Code
-cask "visual-studio-code"
 mas "2048 Game", id: 871033113
 mas "AdGuard for Safari", id: 1440147259
 mas "Be Focused", id: 973134470
@@ -126,8 +150,7 @@ mas "Messenger", id: 1480068668
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "Octagon", id: 691956219
-mas "Octagon 2", id: 1493415019
-mas "Pages", id: 409201541
+mas "OpenSpeedTest-Server", id: 1579499874
 mas "QuickShade", id: 931571202
 mas "Speedtest", id: 1153157709
 mas "Sudoku", id: 1489692148
@@ -166,6 +189,7 @@ vscode "github.remotehub"
 vscode "github.vscode-github-actions"
 vscode "github.vscode-pull-request-github"
 vscode "igorjrd.cslpreview"
+vscode "inferrinizzard.prettier-sql-vscode"
 vscode "janne252.fontawesome-autocomplete"
 vscode "keesschollaart.vscode-home-assistant"
 vscode "kevinrose.vsc-python-indent"
@@ -175,6 +199,7 @@ vscode "kylebarron.stata-enhanced"
 vscode "lukas-tr.materialdesignicons-intellisense"
 vscode "marcostazi.vs-code-vagrantfile"
 vscode "mdob2k.stata-language"
+vscode "mechatroner.rainbow-csv"
 vscode "mhutchie.git-graph"
 vscode "miguelsolorio.fluent-icons"
 vscode "ms-azuretools.vscode-docker"
@@ -187,19 +212,27 @@ vscode "ms-vscode-remote.remote-ssh"
 vscode "ms-vscode-remote.remote-ssh-edit"
 vscode "ms-vscode.azure-repos"
 vscode "ms-vscode.cpptools"
+vscode "ms-vscode.makefile-tools"
 vscode "ms-vscode.remote-explorer"
 vscode "ms-vscode.remote-repositories"
 vscode "neilding.language-liquid"
 vscode "oderwat.indent-rainbow"
+vscode "pkief.material-icon-theme"
+vscode "quarto.quarto"
 vscode "redhat.ansible"
 vscode "redhat.vscode-yaml"
 vscode "reditorsupport.r"
 vscode "samuelcolvin.jinjahtml"
 vscode "sandorengholm.csspreview"
 vscode "searking.preview-vscode"
+vscode "shd101wyy.markdown-preview-enhanced"
 vscode "sissel.shopify-liquid"
 vscode "smoore.yaml-path"
+vscode "sumneko.lua"
+vscode "takumii.markdowntable"
 vscode "teabyii.ayu"
 vscode "tomoki1207.pdf"
 vscode "vscode-icons-team.vscode-icons"
 vscode "wholroyd.jinja"
+vscode "yunierolivera.markdown-quarto-word-count"
+vscode "yzhang.markdown-all-in-one"
