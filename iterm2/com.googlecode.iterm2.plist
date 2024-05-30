@@ -1501,6 +1501,8 @@
 				<key>Red Component</key>
 				<real>0.0050667347386479378</real>
 			</dict>
+			<key>Background Image Mode</key>
+			<integer>3</integer>
 			<key>Badge Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -1543,7 +1545,7 @@
 			<key>Badge Text</key>
 			<string></string>
 			<key>Blend</key>
-			<real>0.49745244565217389</real>
+			<real>0.065160778985507248</real>
 			<key>Blink Allowed</key>
 			<false/>
 			<key>Blinking Cursor</key>
@@ -2500,7 +2502,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.15345412234042552</real>
+			<real>0.065438829787234046</real>
 			<key>Unlimited Scrollback</key>
 			<false/>
 			<key>Use Bold Font</key>
