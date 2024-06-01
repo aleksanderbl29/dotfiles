@@ -3373,7 +3373,7 @@
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>UseBorder</key>
-	<true/>
+	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 	<key>WindowNumber</key>
