@@ -61,6 +61,8 @@ brew "starship"
 brew "tere"
 # Terminal multiplexer
 brew "tmux"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
 # Vi 'workalike' with many additional features
 brew "vim"
 # Library to create, extract, and modify Windows Imaging files
