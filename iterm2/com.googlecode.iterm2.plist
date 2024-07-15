@@ -3368,6 +3368,8 @@
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
+	<key>ShowFullScreenTabBar</key>
+	<true/>
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SoundForEsc</key>
