@@ -1,6 +1,6 @@
 # Aleksander's dotfiles
 
-This repo has been archived as all configuraiton management is moved to [nix-config](https://github.com/aleksanderbl29/nix-config) repo.
+This repo has been archived as all configuraiton management is moved to the [nix-config](https://github.com/aleksanderbl29/nix-config) repo.
 
 ## Steps to setup new mac
 
